@@ -1,1 +1,2 @@
-# Win7-32bit--Opencv-Pyqt5-pyinstaller
+# Win7-32bit-
+Opencv-Pyqt5-pyinstaller
